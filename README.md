@@ -1,5 +1,10 @@
 # Shopping Cart
 _Listado de productos con opción de agregar al carrito de compras_
+-	lectura de datos de ítem seleccionados.
+-	Mostrar en el carrito los ítems
+-	Actualizar cantidad de ítems agregados.
+-	Eliminar un ítem.
+-	Vaciar carrito.
 
 
 ## Demo 
